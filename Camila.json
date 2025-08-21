@@ -89,7 +89,7 @@
             "background":{
                 "blur": 0.6,
                 "url": "https://i.imgur.com/JzFjNKE.jpeg",
-                "alpha":0.6
+                "alpha":0.4
             },
             "spec":2,
             "plus":{
@@ -97,3 +97,4 @@
                 "mentionLineColor":"#E5A5B2"
                 }
             }
+
