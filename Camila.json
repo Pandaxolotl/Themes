@@ -1,139 +1,99 @@
 {
-    "name": "Camila",
-    "description": "A theme for art i saw of camila, meow",
-    "authors": [
+    "name":"Camila Darkened Blossom",
+    "description":"A dark theme with blossom pink accents. and camimi",
+    "authors":
+    [
         {
-            "name": "Pandaxolotl",
-            "id": "614807913302851594"
-        }
-    ],
-    "semanticColors": {
-        "HEADER_PRIMARY": [
-            "#D572D0", "#7D00C0"
+            "name":"Purple_Ξye, Pandaxolotl™"
+            }
         ],
-        "HEADER_SECONDARY": [
-            "#D572D0", "#7D00C0"
-        ],
-        "TEXT_NORMAL": [
-            "#FFE8FE", "#141414"
-        ],
-        "TEXT_MUTED": [
-            "#5C5C5C", "#202020"
-        ],
-        "TEXT_LINK": [
-            "#EE8EE9", "#7D00C0"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#C599C3", "#B26EDA"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#B988BC", "#A988BC"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#FDC5FA", "#A963F6"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#5F5160" ,"#8C8099"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#282828", "#E9E9E9"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#222222", "#EBEBEB"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#222222", "#EBEBEB"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#282828", "#FFFFFF"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#704A6E", "#5F4A70"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#222222", "#EBEBEB"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#222222", "#EBEBEB"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#222222", "#EBEBEB"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#222222", "#EBEBEB"
-        ],
-       
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#292929", "#ECECEC"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#292929", "#ECECEC"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#463745", "#E0C2FF"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#7D427A", "#E0C2FF"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#484848", "#B0B0B0"
-        ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#26273b", "#26273b"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "transparent", "transparent"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#DAB3D8", "#C4B3DA"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#DAB3D8", "#C4B3DA"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#242424", "#BEBEBE"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#9E769C", "#89769E"
-        ],
-        "TEXT_DANGER": [
-            "#FC0E61", "#FC0E61"
-        ],
-        "KEYBOARD": [
-            "#282828", "#FFFFFF"
-        ],
-        "CHANNEL_ICON": [
-            "#C6B3C5", "#31283E"
-        ],
-        "CHAT_BACKGROUND": [
-            "#282828", "#FFFFFF"
-        ]
-    },
-    "rawColors": {
-        "PRIMARY_100": "#FDD8FB",
-        "PRIMARY_200": "#947592",
-        "PRIMARY_300": "#B424AB",
-        "PRIMARY_360": "#C272F0",
-        "PRIMARY_400": "#7114EE",
-        "PRIMARY_500": "#5F3A70",
-        "PRIMARY_600": "#282828",
-        "PRIMARY_630": "#2F2F2F",
-        "PRIMARY_660": "#2F2F2F",
-        "PRIMARY_700": "#282828",
-        "PRIMARY_800": "#282828",
-
-        "BRAND_260": "#936195",
-        "BRAND_360": "#D096CF",
-        "BRAND_500": "#936195",
-        "BRAND_560": "#D096CF",
-        "WHITE_500": "#F0C4FF",
-        "YELLOW_300": "#B569E0",
-        "GREEN_360": "#B569E0",
-        "RED_400": "#FC0E61"
-    },
-  "background": {
-        "url": "https://i.imgur.com/JzFjNKE.jpeg"
-    },
-    "spec": 2
-}
-
+    "semanticColors":
+    {
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND":["#0E0E0F"],
+        "ANDROID_RIPPLE":["#E5A5B224"],
+        "BACKGROUND_ACCENT":["#E5A5B2"],
+        "BACKGROUND_MODIFIER_ACCENT":["#8c8c8c12"],
+        "BACKGROUND_PRIMARY":["#09090A"],
+        "BACKGROUND_SECONDARY":["#0f0f10"],
+        "BACKGROUND_MENTIONED":["#E5A5B215"],
+        "BG_BASE_TERTIARY":["#040405"],
+        "BG_BASE_PRIMARY":["#09090A"],
+        "BG_BASE_SECONDARY":["#09090A"],
+        "BG_BRAND":["#E5A5B295"],
+        "BG_SURFACE_RAISED":["#0E0E0F"],
+        "BG_SURFACE_OVERLAY_TMP":["#0B0B0C"],
+        "CARD_PRIMARY_BG":["#0E0E0F"],
+        "CARD_SECONDARY_BG":["#0E0E0F"],
+        "CHANNEL_ICON":["#E5A5B265"],
+        "EMBED_BACKGROUND":["#111011"],
+        "EMBED_BACKGROUND_ALTERNATE":["#111011"],
+        "INTERACTIVE_ACTIVE":["#E5A5B2"],
+        "INTERACTIVE_MUTED":["#262627"],
+        "INTERACTIVE_NORMAL":["#E5A5B2"],
+        "PANEL_BG":["#0C0C0D"],
+        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND":["#b36b7f"],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND":["#b36b7f"],
+        "REDESIGN_BUTTON_SECONDARY_BORDER":["#b36b7f"],
+        "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND":["#E5A5B2"],
+        "REDESIGN_BUTTON_SECONDARY_TEXT":["#dbdee1"],
+        "REDESIGN_BUTTON_TERTIARY_TEXT":["#E5A5B2"],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT":["#E5A5B2"],
+        "TEXT_NORMAL":["#dbdee1"],
+        "TEXT_PRIMARY":["#dbdee1"],
+        "TEXT_SECONDARY":["#b5bac1"],
+        "THREAD_CHANNEL_SPINE":["#E5A5B2"],
+        "BACKGROUND_SECONDARY_ALT":["#b36b7f"],
+        "PREMIUM_NITRO_PINK_TEXT":["#E5A5B2"],
+        "TEXT_MUTED":["#949ba4"],
+        "TEXT_LINK":["#E5A5B2"],
+        "REDESIGN_CHAT_INPUT_BACKGROUND":["#0E0E0F"],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND":["#0E0E0F"],
+        "INPUT_BACKGROUND":["#0E0E0F"],
+        "TEXT_DANGER":["#F83838"],
+        "BUTTON_OUTLINE_DANGER_BORDER":["#F83838"],
+        "INFO_DANGER_BACKGROUND":["#f23f431a"],
+        "INFO_DANGER_FOREGROUND":["#F83838"],
+        "STATUS_DANGER":["#F83838"],
+        "STATUS_DND":["#f23f43"],
+        "BACKGROUND_MESSAGE_AUTOMOD":["#f23f430d"],
+        "BACKGROUND_MESSAGE_AUTOMOD_HOVER":["#f23f431a"],
+        "BACKGROUND_MODIFIER_ACTIVE":["#E5A5B214"]
+        },
+        "rawColors":{
+            "BLUE_345":"#E5A5B2",
+            "GREEN_430":"#E5A5B2",
+            "RED_430":"#E02929",
+            "RED_460":"#AF2323",
+            "GREEN_460":"#b36b7f",
+            "BRAND_260":"#E5A5B2",
+            "BRAND_360":"#E5A5B2",
+            "RED_400":"#F83838",
+            "BRAND_500":"#E5A5B2",
+            "BRAND_560":"#b36b7f",
+            "PLUM_13":"#E5A5B2",
+            "PLUM_14":"#1D1D21",
+            "PLUM_15":"#E5A5B2",
+            "PLUM_16":"#1D1D21",
+            "PLUM_17":"#0E0E0F",
+            "PLUM_18":"#111011",
+            "PLUM_19":"#b36b7f",
+            "PLUM_20":"#09090A",
+            "PLUM_22":"#0E0E0F",
+            "PLUM_24":"#191919",
+            "PRIMARY_500":"#1E1D1E",
+            "PRIMARY_600":"#0b080d",
+            "PRIMARY_660":"#141314",
+            "PRIMARY_700":"#0f0f10",
+            "PRIMARY_800":"#0C0B0C"
+            },
+            "background":{
+                "blur": 0.6,
+                "url": "https://i.imgur.com/JzFjNKE.jpeg",
+                "alpha":0.6
+            },
+            "spec":2,
+            "plus":{
+                "version":0,
+                "mentionLineColor":"#E5A5B2"
+                }
+            }
