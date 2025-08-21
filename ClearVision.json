@@ -16,7 +16,7 @@
     "TEXT_LINK": ["#459DFF"],
     "BG_BACKDROP": ["#0712407F"],
     "BACKGROUND_PRIMARY": ["#ff85d4"],
-    "BACKGROUND_SECONDARY": ["#0f1530"],
+    "BACKGROUND_SECONDARY": ["#d35ba3"],
     "BACKGROUND_SECONDARY_ALT": ["#0e194f"],
     "BACKGROUND_TERTIARY": ["#111c4d"],
     "BACKGROUND_ACCENT": ["#2680E6"],
@@ -103,6 +103,7 @@
   },
   "spec": 2
 }
+
 
 
 
