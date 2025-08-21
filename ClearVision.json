@@ -59,15 +59,15 @@
   "rawColors": {
     "PRIMARY_100": "#FFFFFF",
     "PRIMARY_200": "#FFFFFF",
-    "PRIMARY_230": "#9AC9FF",
+    "PRIMARY_230": "#FF85D4",
     "PRIMARY_300": "#FFFFFF", 
     "PRIMARY_360": "#8F9298", 
-    "PRIMARY_400": "#2680E6",
-    "PRIMARY_460": "#1a234e", 
-    "PRIMARY_500": "#235DA0",
-    "PRIMARY_560": "#1a234e", 
-    "PRIMARY_600": "#081240", 
-    "PRIMARY_630": "#0f1530", 
+    "PRIMARY_400": "#d35ba3",
+    "PRIMARY_460": "#982929", 
+    "PRIMARY_500": "#803662",
+    "PRIMARY_560": "#803662", 
+    "PRIMARY_600": "#803662", 
+    "PRIMARY_630": "#4D1936", 
     "PRIMARY_660": "#0f1530", 
     "PRIMARY_700": "#0e194f", 
     "PRIMARY_800": "#0e194f",
@@ -99,7 +99,8 @@
   "background": {
     "blur": 0.6,
     "url": "https://i.imgur.com/JzFjNKE.jpeg",
-    "alpha": 0.5
+    "alpha": 0.375
   },
   "spec": 2
 }
+
