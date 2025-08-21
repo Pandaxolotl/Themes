@@ -1,9 +1,9 @@
 {
-    "name": "PurpDark",
-    "description": "A theme based of my phone's wallpaper. Light mode supported.",
+    "name": "Camila",
+    "description": "A theme for art i saw of camila, meow",
     "authors": [
         {
-            "name": "@vorlie",
+            "name": "Pandaxolotl",
             "id": "614807913302851594"
         }
     ],
@@ -132,7 +132,8 @@
         "RED_400": "#FC0E61"
     },
   "background": {
-        "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1142038067209850980/0CI9G4RK.jpg"
+        "url": "https://i.imgur.com/JzFjNKE.jpeg"
     },
     "spec": 2
 }
+
